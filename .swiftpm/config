@@ -1,0 +1,10 @@
+{
+  "version" : 1,
+  "object" : [
+    {
+      "original" : "https:\/\/github.com\/apple\/swift-nio",
+      "mirror" : "https:\/\/github.com\/weissi\/swift-undefined"
+    }
+  ]
+}
+
